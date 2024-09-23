@@ -10,4 +10,4 @@
 [![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
 
 #### 🎓 Estudande de Engenharia de Software.
-#### 🚀 Apaixonado por tecnologoa! Busco desenvolver minhas habilidades para crescer e contribuir em grandes projetos!
+#### 🚀 Apaixonado por tecnologia! Busco desenvolver minhas habilidades para crescer e contribuir em grandes projetos!
