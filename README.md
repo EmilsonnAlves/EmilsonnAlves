@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/1cab3159-0672-49d7-8c14-befc8b42edb9)
 
 ### Olá, eu sou Emilson Alves! 👋 Bem vindo a meu perfil!
+##"🐞 O impossível é só um bug esperando para ser resolvido."
 ---
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilson-alves/)
 ---
@@ -13,5 +14,5 @@
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ---
 * 🎓 Estudande de Engenharia de Software.
-* 💻 Apaixonado por tecnologia!
-* 🚀 Busco desenvolver minhas habilidades para crescer e contribuir em grandes projetos na área de tecnologia!
+* 🚀 Buscando desenvolver minhas habilidades para crescer e contribuir em grandes projetos na área de tecnologia!
+* 🔄️ Entre o caos e a lógica, escolhi a lógica. 
