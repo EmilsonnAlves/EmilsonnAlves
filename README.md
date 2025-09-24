@@ -2,7 +2,7 @@
 
 ## Olá, eu sou Emilson Alves! 👋 Bem vindo a meu perfil!
 
-### 🐞 O impossível é só um bug esperando para ser resolvido.
+### 🐞 *O impossível é só um bug esperando para ser resolvido.*
 ---
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilson-alves/)
 ---
@@ -16,4 +16,4 @@
 ---
 * 🎓 Estudande de Engenharia de Software.
 * 🚀 Buscando desenvolver minhas habilidades para crescer e contribuir em grandes projetos na área de tecnologia!
-* 🔄️ Entre o caos e a lógica, escolhi a lógica. 
+* 🧠 Entre o caos e a lógica, escolhi a lógica. 
